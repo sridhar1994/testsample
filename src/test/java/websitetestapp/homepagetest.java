@@ -37,6 +37,7 @@ public void verifyclick() {
 		hp.tshirtsclick();
 		String gettitle2 = bp.getTitlte();
 		Assert.assertEquals(gettitle2, "T-shirts- My Store");
+System.out.println();
    }
 }
 
